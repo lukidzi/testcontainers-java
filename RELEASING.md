@@ -1,7 +1,5 @@
 # Release process
 
-Testcontainers' release process is semi-automated through GitHub Actions. This describes the basic steps for a project member to perform a release.
-
 ## Steps
 
 1. Ensure that the `main` branch is building and that tests are passing.
