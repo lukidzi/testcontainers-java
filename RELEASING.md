@@ -1,5 +1,5 @@
 # Release process
-
+TEST
 Testcontainers' release process is automated as a Travis deployment. This describes the basic steps for a project member to perform a release.
 
 ## Steps
